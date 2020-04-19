@@ -3,7 +3,17 @@ entries:
   myhelmapp:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-04-19T14:40:22.417535624Z"
+    created: "2020-04-19T15:09:16.328091341Z"
+    description: A Helm chart for Kubernetes
+    digest: 762c7e944cb79b7c9237e9dd3bea2c8c3c4fadfe6eff78f82cba7b80039700ef
+    name: myhelmapp
+    type: application
+    urls:
+    - charts/myhelmapp-1.2.2.tgz
+    version: 1.2.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-04-19T15:09:16.32764454Z"
     description: A Helm chart for Kubernetes
     digest: 6639b593e1550b261aca799f395de8f255d36cba9a8cc42d63cb6d99533bec14
     name: myhelmapp
@@ -11,4 +21,4 @@ entries:
     urls:
     - charts/myhelmapp-0.1.0.tgz
     version: 0.1.0
-generated: "2020-04-19T14:40:22.406455217Z"
+generated: "2020-04-19T15:09:16.300034461Z"
